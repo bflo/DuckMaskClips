@@ -5,4 +5,4 @@ The clips are printing nicely with PLA, 0.2mm thick layers, with only supports t
 
 ![DuckMaskClips Picture](https://github.com/bflo/DuckMaskClips/blob/master/DuckMaskClipsPicture.jpg)
 
-The material is released under GPLv3 licence, wihtout any warranty.
+The material is released under GPLv3 licence, without any warranty.
